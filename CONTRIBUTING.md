@@ -11,7 +11,7 @@ MilSpouse Coders, we’re going to break you into the magic of GitHub and contri
 5. Follow the instructions in the file.
 6. Add/Commit/Push your changes to the file to your personal GitHub repository.
 7. Make a Pull Request from your repository to have your changes added and merged into the master repo.
-8. That's it! If the maintainers of the repo have any quesions or concerns, they will contact you, otherwise your changes will be merged into the repo!
+8. That's it! If the maintainers of the repo have any questions or concerns, they will contact you, otherwise your changes will be merged into the repo!
 
 ### Code of Conduct
 
